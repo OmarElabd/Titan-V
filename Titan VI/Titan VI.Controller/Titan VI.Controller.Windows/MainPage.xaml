@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="Titan_VI.Controller.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Titan_VI.Controller"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="Button_LaunchBluetooth" Content="Bluetooth" HorizontalAlignment="Left" Margin="1234,37,0,0" VerticalAlignment="Top" Height="54" Width="107" Click="Button_LaunchBluetooth_Click"/>
+        <TextBox x:Name="TextBox_CommandText" HorizontalAlignment="Left" Margin="130,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="328"/>
+        <Button x:Name="Button_SendCommand" Content="Send" HorizontalAlignment="Left" Margin="476,127,0,0" VerticalAlignment="Top" Click="Button_SendCommand_Click"/>
+        <ListBox x:Name="ListBox_Echo" HorizontalAlignment="Left" Height="285" Margin="130,301,0,0" VerticalAlignment="Top" Width="328"/>
+        <TextBlock HorizontalAlignment="Left" Margin="130,280,0,0" TextWrapping="Wrap" Text="Received:" VerticalAlignment="Top" Height="16" Width="85"/>
+        <Button x:Name="Button_StartMotors" Content="Go" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="642,271,0,0" Click="Button_StartMotors_Click"/>
+        <Button x:Name="Button_BTConnect" Content="Connect" HorizontalAlignment="Left" Margin="1124,37,0,0" VerticalAlignment="Top" Click="Button_BTConnect_Click" Height="54"/>
+        <Button x:Name="Button_MotorStop" Content="Stop" HorizontalAlignment="Left" Margin="642,344,0,0" VerticalAlignment="Top" Click="Button_MotorStop_Click"/>
+        <Button x:Name="Button_MotorReverse" Content="Reverse" HorizontalAlignment="Left" Margin="642,424,0,0" VerticalAlignment="Top" Click="Button_MotorReverse_Click"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,32 @@
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\Titan VI.Controller.WindowsPhone.xr.xml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\Titan VI.Controller.WindowsPhone.exe
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\Titan VI.Controller.WindowsPhone.pdb
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\Titan VI.Controller.WindowsPhone.build.appxrecipe
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\Titan VI.Controller.WindowsPhone.exe
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\Titan VI.Controller.WindowsPhone.pdb
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\ProjectArchitectures.txt

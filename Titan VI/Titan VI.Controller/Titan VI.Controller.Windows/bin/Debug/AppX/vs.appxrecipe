@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AREL-CLUSTER</Machine>
+    <WindowsUser>Arel</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4918707a-1b61-49af-b686-7947fca4fb4c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>140174D696035DE0530954747CCE035817008C74391242439EFEF908986C1909</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4918707a-1b61-49af-b686-7947fca4fb4c_1.0.0.0_neutral__1v3xkg1a6eghm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4918707a-1b61-49af-b686-7947fca4fb4c_1v3xkg1a6eghm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4918707a-1b61-49af-b686-7947fca4fb4c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Arel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-03T02:28:19.776</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\Titan VI.Controller.Windows.exe">
+      <PackagePath>Titan VI.Controller.Windows.exe</PackagePath>
+      <Modified>2014-07-03T04:52:54.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-02T22:56:31.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-02T22:56:32.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-02T22:56:31.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-02T22:56:31.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-07-02T23:05:32.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-07-03T02:28:19.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\Titan VI.Controller.Windows.xr.xml">
+      <PackagePath>Titan VI.Controller.Windows.xr.xml</PackagePath>
+      <Modified>2014-07-02T23:40:03.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-03T02:28:19.720</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

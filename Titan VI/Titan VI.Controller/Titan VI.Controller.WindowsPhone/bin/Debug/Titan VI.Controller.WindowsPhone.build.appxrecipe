@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AREL-CLUSTER</Machine>
+    <WindowsUser>Arel</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a0e475e9-4a36-45a6-b8e1-ca66521c2f39</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\Titan VI.Controller.WindowsPhone.exe">
+      <PackagePath>Titan VI.Controller.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\Titan VI.Controller.WindowsPhone.xr.xml">
+      <PackagePath>Titan VI.Controller.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

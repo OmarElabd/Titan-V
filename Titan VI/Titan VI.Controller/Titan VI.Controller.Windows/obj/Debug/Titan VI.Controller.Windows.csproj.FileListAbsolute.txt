@@ -1,0 +1,32 @@
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\App.xbf
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\MainPage.xbf
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\Titan VI.Controller.Windows.xr.xml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\Titan VI.Controller.Windows.exe
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\Titan VI.Controller.Windows.pdb
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\resources.pri
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\bin\Debug\Titan VI.Controller.Windows.build.appxrecipe
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\App.g.i.cs
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\App.g.cs
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\App.xaml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\MainPage.xaml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\App.xbf
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\MainPage.xbf
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\Titan VI.Controller.Windows.exe
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\Titan VI.Controller.Windows.pdb
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\priconfig.xml
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\layout.resfiles
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\resources.resfiles
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\pri.resfiles
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\qualifiers.txt
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Arel\Documents\Visual Studio 2013\Titan VI\Titan VI.Controller\Titan VI.Controller.Windows\obj\Debug\ProjectArchitectures.txt
